@@ -14,7 +14,7 @@ Usei o chatgept para criar o roteiro que foi utilizado pelo elevenlabs e editei 
 ## 🚀 Resultados
 Não está perfeito pois não consegue expressar emoções fortes, mas da pra usar.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O AUDIO AQUI.](https://github.com/theylonf/lab-natty-or-not/blob/main/Audio%20inalgura%C3%A7%C3%A3o%20-%20som%202.MP3)
 
 ## 💭 Reflexão
 Acredito que será mais profissional em breve, mas como eu disse... já está muito bom.
